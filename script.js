@@ -45,7 +45,7 @@
 
   // Game iframe
   const iframe = document.createElement("iframe");
-  iframe.src = "https://u3d.degames.org/35.html"; // Working game
+  iframe.src = "https://cdn.jsdelivr.net/gh/genizy/dmad-poki@49b5ab6b987f5f3be58f9dae59c92e8fc1aab9b0/index.html"; // Working game
   Object.assign(iframe.style, {
     width: "100%",
     height: "calc(100% - 50px)",
